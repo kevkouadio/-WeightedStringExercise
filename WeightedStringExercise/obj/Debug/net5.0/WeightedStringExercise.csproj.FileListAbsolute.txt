@@ -1,0 +1,16 @@
+C:\Users\kevko\source\repos\WeightedStringExercise\WeightedStringExercise\bin\Debug\net5.0\WeightedStringExercise.exe
+C:\Users\kevko\source\repos\WeightedStringExercise\WeightedStringExercise\bin\Debug\net5.0\WeightedStringExercise.deps.json
+C:\Users\kevko\source\repos\WeightedStringExercise\WeightedStringExercise\bin\Debug\net5.0\WeightedStringExercise.runtimeconfig.json
+C:\Users\kevko\source\repos\WeightedStringExercise\WeightedStringExercise\bin\Debug\net5.0\WeightedStringExercise.runtimeconfig.dev.json
+C:\Users\kevko\source\repos\WeightedStringExercise\WeightedStringExercise\bin\Debug\net5.0\WeightedStringExercise.dll
+C:\Users\kevko\source\repos\WeightedStringExercise\WeightedStringExercise\bin\Debug\net5.0\ref\WeightedStringExercise.dll
+C:\Users\kevko\source\repos\WeightedStringExercise\WeightedStringExercise\bin\Debug\net5.0\WeightedStringExercise.pdb
+C:\Users\kevko\source\repos\WeightedStringExercise\WeightedStringExercise\obj\Debug\net5.0\WeightedStringExercise.csprojAssemblyReference.cache
+C:\Users\kevko\source\repos\WeightedStringExercise\WeightedStringExercise\obj\Debug\net5.0\WeightedStringExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevko\source\repos\WeightedStringExercise\WeightedStringExercise\obj\Debug\net5.0\WeightedStringExercise.AssemblyInfoInputs.cache
+C:\Users\kevko\source\repos\WeightedStringExercise\WeightedStringExercise\obj\Debug\net5.0\WeightedStringExercise.AssemblyInfo.cs
+C:\Users\kevko\source\repos\WeightedStringExercise\WeightedStringExercise\obj\Debug\net5.0\WeightedStringExercise.csproj.CoreCompileInputs.cache
+C:\Users\kevko\source\repos\WeightedStringExercise\WeightedStringExercise\obj\Debug\net5.0\WeightedStringExercise.dll
+C:\Users\kevko\source\repos\WeightedStringExercise\WeightedStringExercise\obj\Debug\net5.0\ref\WeightedStringExercise.dll
+C:\Users\kevko\source\repos\WeightedStringExercise\WeightedStringExercise\obj\Debug\net5.0\WeightedStringExercise.pdb
+C:\Users\kevko\source\repos\WeightedStringExercise\WeightedStringExercise\obj\Debug\net5.0\WeightedStringExercise.genruntimeconfig.cache
